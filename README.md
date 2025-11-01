@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="img/CleanifyAI Banner.png" alt="CleanifyAI Banner" width="800">
+</p>
+
+<p align="center">
+  <b>Keep your Telegram group safe and spam-free — powered by smart automation.</b>
+</p>
+
+<h1 align="center">CleanifyAI</h1>
+
+<p align="center">
+  <b>Your 24/7 Group Guardian that removes link spam and bot promotions automatically.</b><br>
+  Version 1.0.0 • Developed by <a href="https://amitdas.site">Amit Das</a>
+</p>
+
+---
+
 # 🛡 CleanifyAI — Group Guardian Bot
 
 **CleanifyAI** keeps your Telegram group clean and safe by automatically removing spam links and bot promotions.  
@@ -34,7 +51,11 @@ It’s your 24/7 guardian that helps maintain a friendly, spam-free environment.
 
 ## 🔗 Add to Telegram
 
-👉 [Add CleanifyAI to Your Group](https://t.me/CleanifyAIBot?startgroup=true)
+<p align="center">
+  <a href="https://t.me/CleanifyAIBot?startgroup=true" target="_blank">
+    <img src="https://img.shields.io/badge/Add_to_Telegram_Group-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Add to Telegram">
+  </a>
+</p>
 
 ---
 
@@ -49,6 +70,13 @@ It’s designed to make Telegram communities safe and spam-free — effortlessly
 
 If you enjoy using CleanifyAI, consider leaving feedback or sharing it with others.  
 Your support motivates us to keep improving!
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
+  ☕ Support development: <a href="https://buymeacoffee.com/amitdas4321">Buy Me a Coffee</a>
+</p>
 
 ---
 
